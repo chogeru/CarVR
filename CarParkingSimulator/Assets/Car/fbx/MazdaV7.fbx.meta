@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: f31266eaa75624a479245d462a48a0ce
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: fcef26beb09796f47ab94b24626d9e91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror2
+    second: {fileID: 2100000, guid: 0b8c27f8c9ae7d74c840b007ec4bb915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 7708c6cc47b67c741ba8d0521a94b827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: ea2fd48e6e8e5e44dbf2d591d62ea141, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 24bd37e4b054dce4c83bd2c7b4f91582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_Car_paint1
+    second: {fileID: 2100000, guid: fdf37f34653726a4082467bd21a4b0aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Black
+    second: {fileID: 2100000, guid: 2c454e4f534013349979dd933da94c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Car_paint
+    second: {fileID: 2100000, guid: eeb57cb4b744f084697ba79a23cdc175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Cloth
+    second: {fileID: 2100000, guid: 6a1899b4447f50348b56566424c138fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Dashboard
+    second: {fileID: 2100000, guid: f2a2838b27d21d74bac06a807c3562d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Glass
+    second: {fileID: 2100000, guid: 9b791039b065e1d45b8a452e73ada8d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Leather_1
+    second: {fileID: 2100000, guid: 68a9b05260227ee46b8d25bfc6d740a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Leather_2
+    second: {fileID: 2100000, guid: 8c7e2e5ca466947448c16a3e707a0888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Light
+    second: {fileID: 2100000, guid: d2d3080894013e948a544c1d6e41a74d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Light_1
+    second: {fileID: 2100000, guid: d265835c7babb9d4d9fac35cd32cb397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Meter
+    second: {fileID: 2100000, guid: 80db7a0f6499af541b7c33f75b9a42f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Mirror
+    second: {fileID: 2100000, guid: 97158d43aa2d7b84c9a853ba44e1fe6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Plastic
+    second: {fileID: 2100000, guid: acc588f9b695edb48906ac2e00fb2400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Plastic_1
+    second: {fileID: 2100000, guid: 0344e9b0ae682c54faf77e9f9b6e9852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_Tyre
+    second: {fileID: 2100000, guid: 5e24e4048fef5cc419f910c77aa6cb53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_blinn3
+    second: {fileID: 2100000, guid: fc70f0261180a1c4db52761079ea4fdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_chrome
+    second: {fileID: 2100000, guid: f695aff1714f8e543b5473a65ee2f1aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_chrome_1
+    second: {fileID: 2100000, guid: 414b5847a251cd0428e6e13ad8937f98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_BUtton
+    second: {fileID: 2100000, guid: 7543d424149e60340b5c5a7831a8239c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_Black
+    second: {fileID: 2100000, guid: eb8ccbdb7a55d4e4f95a9e1b108ab9c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_Dashboard
+    second: {fileID: 2100000, guid: c8217443d5cb007419c2959fad09de3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_Leather_1
+    second: {fileID: 2100000, guid: c1f6cb0baff6db345803cedbc5fefb02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_Light_1
+    second: {fileID: 2100000, guid: 0285e33fa70a6504ba2afa5d62b110d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_Plastic
+    second: {fileID: 2100000, guid: 778e87c3cd1eda7438865e8312663ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_lambert1
+    second: {fileID: 2100000, guid: 577ea198a36f0ab448a0210781a84e45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_lambert2
+    second: {fileID: 2100000, guid: c55f7e59d6fea5345aac3bb01a1d07f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_lambert4
+    second: {fileID: 2100000, guid: 492c15671fa88ca4aba27fcfbe5c6d1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_lambert5
+    second: {fileID: 2100000, guid: e88c0926b9dbbb94cace0481b5e598a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_mazda_car_lambert6
+    second: {fileID: 2100000, guid: 6a84414043969a84bb38125b76e4b797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mazda_car_final_meter_glass
+    second: {fileID: 2100000, guid: 886467a56ff6021498e31d179f6bdcf9, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
